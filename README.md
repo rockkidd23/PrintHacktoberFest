@@ -1,1 +1,1 @@
-# PrintHacktoberFest
+# Print HacktoberFest
