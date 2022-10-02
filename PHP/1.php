@@ -1,5 +1,5 @@
 <?php
 
-echo "Hacktoberfest 2022
+echo "Hacktoberfest 2022";
 
 ?>
